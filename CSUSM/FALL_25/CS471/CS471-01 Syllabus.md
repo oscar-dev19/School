@@ -1,3 +1,10 @@
+---
+tags:
+  - CSUSM
+  - CS471
+  - Syllabus
+---
+
 # CS 471 Artificial Intelligence 
 
 **Instructor:**				Dr. Sreedevi Gutta   
