@@ -3,6 +3,7 @@ tags:
   - CSUSM
   - CS471
   - Syllabus
+  - ai
 ---
 
 # CS 471 Artificial Intelligence 
