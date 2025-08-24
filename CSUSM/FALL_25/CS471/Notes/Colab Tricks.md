@@ -1,3 +1,12 @@
+---
+tags:
+  - ai
+  - CS471
+  - CSUSM
+  - colab
+  - medium
+---
+
 # Google Colab Tips & Tricks (2021)
 
 A concise collection of handy tips and tricks for enhancing your Colab experience, based on Nandan Manjunatha’s “Google Colab Tips and Tricks — 2021” [Medium+8Medium+8Medium+8](https://medium.com/curious-manava/google-colab-tips-and-tricks-2021-58e6289cc0fc?utm_source=chatgpt.com).
