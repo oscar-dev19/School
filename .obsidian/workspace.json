@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSUSM/FALL_25/CS471/CS471-01 Syllabus.md",
+                "file": "CSUSM/FALL_25/CS471/Notes/Colab Tricks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CS471-01 Syllabus"
+              "title": "Colab Tricks"
             }
           }
         ]
@@ -154,8 +154,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -194,7 +194,9 @@
   },
   "active": "d2127ee1e26dd844",
   "lastOpenFiles": [
+    "CSUSM/FALL_25/CS471/Assignments/CS_471_Assignment1.md",
     "CSUSM/FALL_25/CS471/Notes/Colab Tricks.md",
+    "CSUSM/FALL_25/CS471/Assignments",
     "CSUSM/FALL_25/CS471/CS471-01 Syllabus.md",
     "CSUSM/FALL_25/CS471/Notes",
     "CSUSM/FALL_25/CS371/IEEE Code of Ethics.md",
