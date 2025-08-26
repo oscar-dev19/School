@@ -4,6 +4,7 @@ tags:
   - CS471
   - Syllabus
   - ai
+  - syllabus
 ---
 
 # CS 471 Artificial Intelligence 
